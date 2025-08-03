@@ -175,3 +175,4 @@ pyrightconfig.json
 assets/.METADATA
 wml_model/
 App.py
+project.json

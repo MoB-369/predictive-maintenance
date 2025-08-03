@@ -174,4 +174,4 @@ pyrightconfig.json
 .env
 assets/.METADATA
 wml_model/
-app.py
+App.py

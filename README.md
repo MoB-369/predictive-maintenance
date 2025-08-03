@@ -1,8 +1,17 @@
 # Predictive Maintenance Project
 
-A machine learning project for predictive maintenance using IBM Watson Studio's AutoAI capabilities. This project analyzes equipment sensor data to predict potential failures and maintenance needs, helping organizations transition from reactive to proactive maintenance strategies.
+## 🌐 Try the App
+
+Experience the predictive maintenance dashboard live: [https://mob-369-predictive-maintenance-app-nof2kx.streamlit.app/](https://mob-369-predictive-maintenance-app-nof2kx.streamlit.app/)
+
+## 🎓 Project Background
+
+This project is part of an IBM internship program, showcasing the practical application of IBM Watson Studio's AutoAI capabilities in industrial predictive maintenance scenarios.
+
 
 ## 📋 Project Overview
+
+A machine learning project for predictive maintenance using IBM Watson Studio's AutoAI capabilities. This project analyzes equipment sensor data to predict potential failures and maintenance needs, helping organizations transition from reactive to proactive maintenance strategies.
 
 This project leverages machine learning to predict equipment failures based on various operational parameters including temperature, rotational speed, torque, and tool wear. The predictive model helps maintenance teams identify potential issues before they lead to costly equipment downtime.
 
@@ -17,7 +26,7 @@ This project leverages machine learning to predict equipment failures based on v
 ## 🏗️ Project Structure
 
 ```
-Predictive-Maintenance-2/
+Predictive-Maintenance/
 ├── README.md
 ├── project.json                                    # Project metadata and configuration
 ├── assets/
@@ -84,8 +93,8 @@ The project uses a comprehensive predictive maintenance dataset with the followi
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd Predictive-Maintenance-2
+   git clone https://github.com/MoB-369/predictive-maintenance.git
+   cd predictive-maintenance
    ```
 
 2. **Install Dependencies**
@@ -256,27 +265,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Industrial IoT community for dataset and domain expertise
 - Contributors to open-source machine learning libraries
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- **Project Owner**: mohit.369b@gmail.com
-- **Issues**: Use GitHub Issues for bug reports and feature requests
-- **Documentation**: Refer to IBM Watson Studio documentation for detailed API usage
-
-## 🔮 Future Enhancements
-
-- [ ] Real-time streaming data integration
-- [ ] Advanced anomaly detection algorithms
-- [ ] Multi-equipment correlation analysis
-- [ ] Predictive maintenance scheduling optimization
-- [ ] Integration with IoT platforms
-- [ ] Mobile dashboard for maintenance teams
-- [ ] Cost-benefit analysis reporting
-- [ ] Integration with enterprise maintenance systems
-
----
-
-**Last Updated**: August 2, 2025  
-**Project Version**: 1.2.0.cloud  
-**Watson Studio Compatible**: ✅
